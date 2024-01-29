@@ -1,2 +1,2 @@
-# Retention curve approximation
-This repository demonstrates the application of SciPy BFGS, AdaGrad, and Monte Carlo optimization methods to approximate a retention curve using a parametric hyperbolic function, with the aim of optimizing the mean squared error.
+# LTV Prediction
+This repository demonstrates an approach to predict LTV, using an application of SciPy BFGS optimization method to approximate a retention curve using a parametric power/log/hyperbolic functions, to optimize the mean squared error.
